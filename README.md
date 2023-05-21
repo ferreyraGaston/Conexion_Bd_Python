@@ -33,10 +33,10 @@
 
 <!-- YT:START -->
 - [Actividad Ética y Deontología][pdf1]
+
 - [Presentacion][pdf2]
 <!-- YT:END -->
 
 
-
-[pdf1]: https://github.com/gastonloco/Conexion_Bd_Python/blob/main/Document/Actividad E y D.pdf
-[pdf2]: https://github.com/gastonloco/Conexion_Bd_Python/blob/main/Document/Conexion Bd a Python.pdf
+[pdf1]: https://github.com/gastonloco/Conexion_Bd_Python/blob/main/Document/Actividad%20E%20y%20D.pdf
+[pdf2]: https://github.com/gastonloco/Conexion_Bd_Python/blob/main/Document/Conexion%20Bd%20a%20Python.pdf
