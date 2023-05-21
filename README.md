@@ -6,7 +6,7 @@
 
 - ✔️**Joaquin Emiliano Cortabarría**.  [Ver Github](https://github.com/joacorta).
 - ✔️**Alan Pierola**.  [Ver Github](https://github.com/alancodigo).
-- ✔️**Joaquin Dorgnach**.  [Ver Github](https://github.com/Joaquinn31)
+- ✔️**Javier Aliendro**.  [Ver Github](https://github.com/CACHITO-13)
 - ✔️**Ferreyra Gastón**.  [Ver Github](https://github.com/gastonloco).
 
 
