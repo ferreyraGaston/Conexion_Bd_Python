@@ -9,4 +9,4 @@
 ● CREATE DATABASE proyectoIntegradorv01;
 ● USE proyectoIntegradorv01;
 
-<img src="https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-2-grupo-01/blob/main/B_Bibliografia/Img/fondo.jpg" align="center" height="350">
+<img src="https://github.com/gastonloco/Conexion_Bd_Python/blob/main/imagenes/bd_1.png" align="center" height="350">
