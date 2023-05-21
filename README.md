@@ -5,6 +5,8 @@
 
 ● Conexión desde Python
 
+<img src="https://github.com/gastonloco/Conexion_Bd_Python/blob/main/imagenes/vs_1.png" align="center" height="350">
+
 ## Creación de la BD
 
 ● CREATE DATABASE proyectoIntegradorv01;
