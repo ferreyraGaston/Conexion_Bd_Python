@@ -4,9 +4,8 @@
 
 ### Damos la bienvenida a todos los colaboradores 💙
 
-- ✔️**Joaquin Emiliano Cortabarría**.  [Ver Github](https://github.com/joacorta).
+
 - ✔️**Alan Pierola**.  [Ver Github](https://github.com/alancodigo).
-- ✔️**Javier Aliendro**.  [Ver Github](https://github.com/CACHITO-13)
 - ✔️**Ferreyra Gastón**.  [Ver Github](https://github.com/gastonloco).
 
 
